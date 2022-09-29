@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aasemMajedShoshari/shoushFrontEnd.git/static/css/main.98295ad6.css",
+    "main.js": "/aasemMajedShoshari/shoushFrontEnd.git/static/js/main.6d02e19b.js",
+    "static/js/787.0c3f432a.chunk.js": "/aasemMajedShoshari/shoushFrontEnd.git/static/js/787.0c3f432a.chunk.js",
+    "static/media/company.jpg": "/aasemMajedShoshari/shoushFrontEnd.git/static/media/company.be7cd4ea6c82989cf65f.jpg",
+    "static/media/globe.jpg": "/aasemMajedShoshari/shoushFrontEnd.git/static/media/globe.bc4c5c0082329f97517f.jpg",
+    "index.html": "/aasemMajedShoshari/shoushFrontEnd.git/index.html",
+    "main.98295ad6.css.map": "/aasemMajedShoshari/shoushFrontEnd.git/static/css/main.98295ad6.css.map",
+    "main.6d02e19b.js.map": "/aasemMajedShoshari/shoushFrontEnd.git/static/js/main.6d02e19b.js.map",
+    "787.0c3f432a.chunk.js.map": "/aasemMajedShoshari/shoushFrontEnd.git/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98295ad6.css",
+    "static/js/main.6d02e19b.js"
+  ]
+}
